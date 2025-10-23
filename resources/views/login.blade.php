@@ -19,6 +19,7 @@
 @endsection
 
 @section('scripts')
+<script></script>
 <script>
   document.getElementById('loginBtn').addEventListener('click', () => {
     const user = document.getElementById('username').value.trim();

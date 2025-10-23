@@ -7,6 +7,7 @@
     <h2 class="text-3xl font-bold mb-6">Profile</h2>
     <p id="profileName" class="text-xl"></p>
   </div>
+
 @endsection
 
 @section('scripts')
